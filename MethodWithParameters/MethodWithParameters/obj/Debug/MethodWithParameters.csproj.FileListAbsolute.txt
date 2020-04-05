@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\MethodWithParameters\MethodWithParameters\obj\Debug\MethodWithParameters.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\MethodWithParameters\MethodWithParameters\bin\Debug\MethodWithParameters.exe.config
+C:\Users\adamo\source\repos\MethodWithParameters\MethodWithParameters\bin\Debug\MethodWithParameters.exe
+C:\Users\adamo\source\repos\MethodWithParameters\MethodWithParameters\bin\Debug\MethodWithParameters.pdb
+C:\Users\adamo\source\repos\MethodWithParameters\MethodWithParameters\obj\Debug\MethodWithParameters.exe
+C:\Users\adamo\source\repos\MethodWithParameters\MethodWithParameters\obj\Debug\MethodWithParameters.pdb

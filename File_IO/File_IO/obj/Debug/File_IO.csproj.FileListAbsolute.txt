@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\File_IO\File_IO\bin\Debug\File_IO.exe.config
+C:\Users\adamo\source\repos\File_IO\File_IO\bin\Debug\File_IO.exe
+C:\Users\adamo\source\repos\File_IO\File_IO\bin\Debug\File_IO.pdb
+C:\Users\adamo\source\repos\File_IO\File_IO\obj\Debug\File_IO.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\File_IO\File_IO\obj\Debug\File_IO.exe
+C:\Users\adamo\source\repos\File_IO\File_IO\obj\Debug\File_IO.pdb

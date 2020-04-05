@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\Date_Time\Date_Time\bin\Debug\Date_Time.exe.config
+C:\Users\adamo\source\repos\Date_Time\Date_Time\bin\Debug\Date_Time.exe
+C:\Users\adamo\source\repos\Date_Time\Date_Time\bin\Debug\Date_Time.pdb
+C:\Users\adamo\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.exe
+C:\Users\adamo\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.pdb

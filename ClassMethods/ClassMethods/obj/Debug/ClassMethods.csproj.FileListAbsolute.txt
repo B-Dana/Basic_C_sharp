@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\Users\adamo\source\repos\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\Users\adamo\source\repos\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\Users\adamo\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\Users\adamo\source\repos\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb

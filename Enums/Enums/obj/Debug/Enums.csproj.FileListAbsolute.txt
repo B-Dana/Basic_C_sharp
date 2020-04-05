@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\Enums\Enums\bin\Debug\Enums.exe.config
+C:\Users\adamo\source\repos\Enums\Enums\bin\Debug\Enums.exe
+C:\Users\adamo\source\repos\Enums\Enums\bin\Debug\Enums.pdb
+C:\Users\adamo\source\repos\Enums\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\Enums\Enums\obj\Debug\Enums.exe
+C:\Users\adamo\source\repos\Enums\Enums\obj\Debug\Enums.pdb

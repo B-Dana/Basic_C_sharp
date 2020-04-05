@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\OperatorOverload2\OperatorOverload2\bin\Debug\OperatorOverload2.exe.config
+C:\Users\adamo\source\repos\OperatorOverload2\OperatorOverload2\bin\Debug\OperatorOverload2.exe
+C:\Users\adamo\source\repos\OperatorOverload2\OperatorOverload2\bin\Debug\OperatorOverload2.pdb
+C:\Users\adamo\source\repos\OperatorOverload2\OperatorOverload2\obj\Debug\OperatorOverload2.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\OperatorOverload2\OperatorOverload2\obj\Debug\OperatorOverload2.exe
+C:\Users\adamo\source\repos\OperatorOverload2\OperatorOverload2\obj\Debug\OperatorOverload2.pdb

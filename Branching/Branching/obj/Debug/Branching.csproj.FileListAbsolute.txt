@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\adamo\source\repos\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\adamo\source\repos\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\adamo\source\repos\Branching\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\adamo\source\repos\Branching\Branching\obj\Debug\Branching.pdb

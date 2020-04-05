@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+C:\Users\adamo\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+C:\Users\adamo\source\repos\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+C:\Users\adamo\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+C:\Users\adamo\source\repos\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb

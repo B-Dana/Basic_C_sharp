@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\AdditFeatures\AdditFeatures\bin\Debug\AdditFeatures.exe.config
+C:\Users\adamo\source\repos\AdditFeatures\AdditFeatures\bin\Debug\AdditFeatures.exe
+C:\Users\adamo\source\repos\AdditFeatures\AdditFeatures\bin\Debug\AdditFeatures.pdb
+C:\Users\adamo\source\repos\AdditFeatures\AdditFeatures\obj\Debug\AdditFeatures.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\AdditFeatures\AdditFeatures\obj\Debug\AdditFeatures.exe
+C:\Users\adamo\source\repos\AdditFeatures\AdditFeatures\obj\Debug\AdditFeatures.pdb

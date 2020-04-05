@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\adamo\source\repos\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\adamo\source\repos\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\adamo\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\adamo\source\repos\TryCatch\TryCatch\obj\Debug\TryCatch.pdb

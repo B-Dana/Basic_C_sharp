@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\Structs\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\Structs\Structs\bin\Debug\Structs.exe.config
+C:\Users\adamo\source\repos\Structs\Structs\bin\Debug\Structs.exe
+C:\Users\adamo\source\repos\Structs\Structs\bin\Debug\Structs.pdb
+C:\Users\adamo\source\repos\Structs\Structs\obj\Debug\Structs.exe
+C:\Users\adamo\source\repos\Structs\Structs\obj\Debug\Structs.pdb

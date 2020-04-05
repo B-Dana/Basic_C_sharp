@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+C:\Users\adamo\source\repos\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+C:\Users\adamo\source\repos\ComparisonOperators\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+C:\Users\adamo\source\repos\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+C:\Users\adamo\source\repos\ComparisonOperators\ComparisonOperators\obj\Debug\ComparisonOperators.pdb

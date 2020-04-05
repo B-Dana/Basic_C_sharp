@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\WhileLoop2\WhileLoop2\bin\Debug\WhileLoop2.exe.config
+C:\Users\adamo\source\repos\WhileLoop2\WhileLoop2\bin\Debug\WhileLoop2.exe
+C:\Users\adamo\source\repos\WhileLoop2\WhileLoop2\bin\Debug\WhileLoop2.pdb
+C:\Users\adamo\source\repos\WhileLoop2\WhileLoop2\obj\Debug\WhileLoop2.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\WhileLoop2\WhileLoop2\obj\Debug\WhileLoop2.exe
+C:\Users\adamo\source\repos\WhileLoop2\WhileLoop2\obj\Debug\WhileLoop2.pdb

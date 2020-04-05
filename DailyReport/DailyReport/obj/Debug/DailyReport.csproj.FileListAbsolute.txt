@@ -1,0 +1,6 @@
+C:\Users\adamo\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.exe.config
+C:\Users\adamo\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.exe
+C:\Users\adamo\source\repos\DailyReport\DailyReport\bin\Debug\DailyReport.pdb
+C:\Users\adamo\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.csprojAssemblyReference.cache
+C:\Users\adamo\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.exe
+C:\Users\adamo\source\repos\DailyReport\DailyReport\obj\Debug\DailyReport.pdb
